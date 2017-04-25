@@ -102,7 +102,7 @@ var main = {
   			getNextImg();
 		  }, 1000); 
   		  //});		
-  		}, 6000);
+  		}, 30000);
   	  };
 	  
 	  // If there are multiple images, cycle through them
