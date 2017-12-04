@@ -1,0 +1,173 @@
+---
+-
+    clubid: bbc
+    name: Beez Boating Club
+    shortname: BBC
+    address1: Avenue Reine Elisabeth 202
+    address2: 5000 Namur
+    address3: Belgium
+    url: www.bbcvoile.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5078.0896106129385!2d4.9334276221586535!3d50.47750959249919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c198a4c6dadba5%3A0xa4e910c4fd2c2679!2sBeez+Boating+Club!5e0!3m2!1snl!2sbe!4v1494960210624
+-
+    clubid: bryc
+    name: Bruxelles Royal Yacht Club
+    shortname: BRYC
+    address1: Chaussée de Vilvorde 1
+    address2: 1020 Bruxelles
+    address3: Belgium
+    url: www.bryc.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.251301829449!2d4.37250771585688!3d50.88205906405176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c304a3414d1d%3A0x75dc71ae1d3a709!2sBRYC+-+Bruxelles+Royal+Yacht+Club!5e0!3m2!1snl!2sbe!4v1494960122492
+-
+    clubid: bzyc
+    name: Brugse Zeil- en Yacht Club
+    shortname: BZYC
+    address1: Lodewijk Coiseaukaai 13
+    address2: 8000 Brugge
+    address3: Belgium
+    url: www.bzyc.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4996.500454509043!2d3.2188691335418125!3d51.232886338558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3572438eb8bad%3A0xb111537cf2c8a47f!2sBZYC+-+Brugse+Zeil-+en+Yacht+Club!5e0!3m2!1snl!2sbe!4v1494959927956
+-
+    clubid: gyc
+    name: Genval Yacht Club
+    shortname: GYC    
+    address1: Meerlaan 190 A
+    address2: 3090 Overijse
+    address3: Belgium
+    url: www.genvalyachtclub.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.5008765159923!2d4.519672315852562!3d50.72919837512115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3d73d911ec22d%3A0xf6a7050b619e87a6!2sGenval+Yacht+Club!5e0!3m2!1snl!2sbe!4v1494959342315
+-
+    clubid: iyci
+    name: International Yachting Club Ittre
+    shortname: IYCI        
+    address1: Rue du Sart 45
+    address2: 1460 Ittre
+    address3: Belgium
+    url: www.interyacht.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2529.5587456412313!2d4.230471115738777!3d50.653885579503935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3cbad9af771d5%3A0xbf0ffb940319d3b!2sRue+du+Sart+45%2C+1460+Ittre%2C+Belgi%C3%AB!5e0!3m2!1snl!2sus!4v1493150232296
+-
+    clubid: nwv
+    name: Nievdonckse Watersport Vereniging
+    shortname: NWV
+    address1: Dendermondse Steenweg 13a
+    address2: 9290 Berlare
+    address3: Belgium
+    url: www.nwv-nd.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4520.235711939417!2d3.9722845993171614!3d51.035634722328716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c39bc1ce575d9b%3A0x7d11973cd79d4a48!2sNWV!5e0!3m2!1snl!2sbe!4v1494959592426
+-
+    clubid: rbsc
+    name: RBSC Heusden
+    shortname: RBSC
+    address1: Stapsteenweg 50
+    address2: 9070 Destelbergen
+    address3: Belgium
+    url: www.rbsc.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2508.3643243736133!2d3.8032810158615695!3d51.04636035212787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3766e42c0e14f%3A0x7d42fbe96ff39ce2!2sRBSC+Heusden!5e0!3m2!1snl!2sbe!4v1494960164004
+-
+    clubid: rcnmb
+    name: Royal Club Nautique Mons Borinage
+    shortname: RCNMB
+    address1: "Avenue du Grand Large 2A\n"
+    address2: 7000 Mons
+    address3: Belgium
+    url: www.rcnmb.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2539.491868229647!2d3.939034565781449!3d50.46918623168713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2503e0ab49fef%3A0x1a1fa3db39827ce0!2sClub+House+du+Grand+Large!5e0!3m2!1snl!2sbe!4v1494959883978
+-
+    clubid: rycm
+    name: Royal Yacht Club de la Meuse
+    shortname: RYCM
+    address1: 'Rue de l''Île Monsin 2'
+    address2: 4020 Liège
+    address3: Belgium
+    url: www.rycm.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2892.90910875815!2d5.625914520713378!3d50.65346064705911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0f0e3ed66fb93%3A0xb69910b9f734c497!2sLa+Societe+Royale+du+Yacht+Club+de+La+Meuse+Asbl!5e0!3m2!1snl!2sbe!4v1494959754747
+-
+    clubid: rycw
+    name: Royal Yacht Club Warche
+    shortname: RYCW
+    address1: Worriken 2
+    address2: 4750 Bütgenbach
+    address3: Belgium
+    url: rycw.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5083.5397741310835!2d6.212162244633393!3d50.4267588564907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bf86cdcf7ee307%3A0x444df4c55c939b8d!2sK%C3%B6niglicher+Yachtclub+Warche!5e0!3m2!1snl!2sbe!4v1494960069494
+-
+    clubid: sneh
+    name: 'Sports Nautiques de l''Eau d''Heure'
+    shortname: SNEH
+    address1: Rue de Oupia 4 bte 1
+    address2: 6440 Froidchapelle
+    address3: Belgium
+    url: www.sneh.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10220.491213510464!2d4.372011168861729!3d50.17754021487245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c21be6b61b8341%3A0xba29c4bcbf5f102e!2sSports+Nautiques+de+l&#39;Eau+d&#39;Heure+asbl!5e0!3m2!1snl!2sbe!4v1494959986020
+-
+    clubid: vvwbrugge
+    name: VVW Brugge - Aan de plas
+    shortname: VVW Brugge
+    address1: Blankenbergse dijk 75
+    address2: 8000 Brugge Sint-Pieters
+    address3: Belgium
+    url: www.aandeplas.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2498.221081806619!2d3.196203415935513!3d51.23342313851873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c356c439b50455%3A0x79be5cefc52e093a!2sAan+de+Plas!5e0!3m2!1sen!2sbe!4v1493750714611?    
+-
+    clubid: vvwgal
+    name: VVW Galgenweel
+    shortname: VVW Gal.
+    address1: Beatrijslaan 92
+    address2: 2050 Antwerpen
+    address3: Belgium
+    url: www.vvw-galgenweel.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2499.430357592919!2d4.370798315866267!3d51.21114734014127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3f69b129076a1%3A0x92c3c6a73c84c2c0!2sVVW+Galgenweel!5e0!3m2!1snl!2sbe!4v1494959429117
+-
+    clubid: vvwinout
+    name: V.V.W. Inside-Outside
+    shortname: VVW In Out
+    address1: Schietbaanstraat 100
+    address2: 8400 Oostende
+    address3: Belgium
+    url: www.vvwinout.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2498.396526705716!2d2.958648215866807!3d51.23019173875417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dcaf331cc7290d%3A0x8047b99d2592fa2e!2sV.V.W.+Inside-Outside!5e0!3m2!1snl!2sbe!4v1494959643905
+-
+    clubid: wvd
+    name: WVD Mechelen
+    shortname: WVD
+    address1: Eglegemweg 8
+    address2: 2811 Hombeek
+    address3: Belgium
+    url: www.wvd-mechelen.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2510.149317662735!2d4.443762515860592!3d51.013390254522676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3e5fd23145e8d%3A0xd99423689cc2a2de!2sWVD+Mechelen!5e0!3m2!1snl!2sbe!4v1493651572953
+-
+    clubid: zscbroechem
+    name: ZSC Broechem
+    shortname: ZSC B
+    address1:  Oelegemsesteenweg 43
+    address2: 2520 Ranst
+    address3: Belgium
+    url: www.zscbroechem.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2499.90640105396!2d4.596447315866001!3d51.202376340779885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3fee8d53e8faf%3A0x5df16a93cf23a4a1!2sZSC+Broechem!5e0!3m2!1snl!2sbe!4v1494960304858
+-
+    clubid: zsg
+    name: Zeil- en Surfclub Gavermeer
+    shortname: Zsg Gavermeer
+    address1: Eikenstraat 131
+    address2: 8530 Harelbeke
+    address3: Belgium
+    url: www.zsg.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5039.069932867106!2d3.3171816097268523!3d50.83977710880749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c33c8023f7d545%3A0x2f2cbb7d63c1cbf8!2sZeil-+en+Surfclub+Gavermeer!5e0!3m2!1snl!2sbe!4v1494960269136
+-
+    clubid: wwsk
+    name: WWSK Willebroek
+    shortname: WWSK
+    address1: Grote Bergen 54
+    address2: 2830 Willebroek
+    address3: Belgium
+    url: www.wwsk.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2506.7146717348883!2d4.38738695161138!3d51.07681697946638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3ee4caec88d4d%3A0xb42db301e54a6219!2sWWSK!5e0!3m2!1snl!2sbe!4v1512245150674
+-
+    clubid: vvwkel
+    name: VVW Kelchteren
+    shortname: VVW Kel.
+    address1: Steenhovenstraat
+    address2: 3530 Houthalen-Helchteren
+    address3: Belgium
+    url: vvwkelchteren.be
+    mapincludeurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2509.0573618071276!2d5.4141498516099915!3d51.033561279459754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c127b7e1f9b12b%3A0x738c6c188e1385ca!2sVVW+Kelchteren!5e0!3m2!1snl!2sbe!4v1512245384451
+    

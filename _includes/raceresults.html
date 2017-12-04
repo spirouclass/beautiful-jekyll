@@ -1,0 +1,33 @@
+<!-- clubinfo: {{ page.raceid }} -->
+{% if raceid == "" %}
+{% assign raceid = page.raceid %}
+{% endif %}
+{% assign race = site.data.results | where: 'raceid', page.raceid | first %}
+<div class="row">
+    <table class="raceresults">
+	    <thead>
+	        <tr>
+	            <th>{{ site.Rank[site.active_lang]}}</th>
+        		<th>{{ site.Sailor[site.active_lang]}}</th>
+		        <th>Club</th>
+		        <th>Junior</th>
+        	</tr>
+        </thead>
+        <tbody>
+        {% for item in race.sailors %}
+        <!--{% assign sailor = site.data.sailors | where: 'id', item.sailorid | first %}-->
+        {% assign sailor = site.sailors | where: 'sailorid', item.sailorid | first %}
+        {% assign club = site.data.clubs | where: 'clubid', item.clubid | first %}
+            <tr>
+		        <td>{{ item.pos }}</td>
+		        <td><a href="/sailors/{{sailor.sailorid}}">{{ sailor.firstname }}&nbsp;{{ sailor.lastname }}</a></td>
+		        <td>{{ club.name }}</td>
+		        <td>{% if sailor.junior == race.year %} Junior {% endif %}</td>
+	        </tr>
+	    {% endfor %}
+	    </tbody>
+    </table>
+	{% if race.resultslink %}
+    	<a href="{{race.resultslink}}" target="_blank"><i class="fa fa-cloud-download"></i>&nbsp;{{ site.RaceResults[site.active_lang]}}</a>
+	{% endif %}
+</div>

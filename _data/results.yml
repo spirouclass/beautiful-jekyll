@@ -1,0 +1,1691 @@
+--- 
+-
+  name: Spirou Trophy - Sail@ccess Genval Yacht Club
+  clubid: gyc
+  raceid: 20170312
+  day: 12
+  month: 3
+  year: 2017
+  photolink: https://flic.kr/s/aHsm6HKoYM
+  resultslink: https://drive.google.com/open?id=0B7Sno94GLM-3MUN5OXRqcTdkZ00
+  podiumimg: 20170312.png
+  sailors: 
+   -
+      pos: 1
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 2
+      sailorid: joren_van_cauwenberge
+      clubid: nwv
+   -
+      pos: 3
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 4
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 5
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 6
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 7
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 8
+      sailorid: wout_de_bondt
+      clubid: wvd
+   -
+      pos: 9
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 10
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 11
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 12
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 13
+      sailorid: cloe_theys
+      clubid: vvwgal
+   -
+      pos: 14
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 15
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 16
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 17
+      sailorid: amelie_chabot
+      clubid: sneh
+   -
+      pos: 18
+      sailorid: yael_verdier
+      clubid: gyc
+   -
+      pos: 19
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 20
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 21
+      sailorid: mathieu_teughels
+      clubid: wvd
+   -
+      pos: 22
+      sailorid: isaac_tierens
+      clubid: wwsk
+   -
+      pos: 23
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 24
+      sailorid: gabriel_seyler
+      clubid: sneh
+-
+  name: Spirou Trophy - KLYC Galgenweel Antwerpen
+  clubid: klyc
+  raceid: 20170319
+  day: 19
+  month: 3
+  year: 2017
+  photolink: https://flic.kr/s/aHskReetdj
+  resultslink: https://drive.google.com/open?id=0B7Sno94GLM-3Ml9xcmJ6NmJET28
+  podiumimg: 20170319.png
+  sailors: 
+   -
+      pos: 1
+      sailorid: joren_van_cauwenberge
+      clubid: nwv
+   -
+      pos: 2
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 3
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 4
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 5
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 6
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 7
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 8
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 9
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 10
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 11
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 12
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 13
+      sailorid: nagui_case
+      clubid: bryc
+   -
+      pos: 14
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 14
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 14
+      sailorid: zoe_lefeur
+      clubid: bbc
+
+-
+  name: Spirou Trophy - NWV Nieuwdonck Berlare
+  clubid: 
+  raceid: 20170417
+  day: 17
+  month: 4
+  year: 2017
+  photolink: https://flic.kr/s/aHskT8c7kb
+  resultslink: https://drive.google.com/open?id=0B7Sno94GLM-3RTJsTkJtVTRlQTQ
+  podiumimg: 20170417.png
+  sailors: 
+   -
+      pos: 1
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 2
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 3
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 4
+      sailorid: wout_de_bondt
+      clubid: wvd
+   -
+      pos: 5
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 6
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 7
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 8
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 9
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 10
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 11
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 12
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 13
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 15
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 16
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 17
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 18
+      sailorid: mathieu_teughels
+      clubid: wvd
+   -
+      pos: 19
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 20
+      sailorid: amelie_chabot
+      clubid: sneh
+   -
+      pos: 21
+      sailorid: camille_chabot
+      clubid: sneh
+   -
+      pos: 22
+      sailorid: isaac_tierens
+      clubid: wwsk
+   -
+      pos: 23
+      sailorid: zoe_lefeur
+      clubid: bbc
+-
+  name: Spirou Trophy - VVW Brugge Sint-Pietersplas
+  clubid: vvwbrugge
+  raceid: 20170423
+  day: 23
+  month: 4
+  year: 2017
+  photolink: https://flic.kr/s/aHsm43NLBE
+  resultslink: https://drive.google.com/open?id=0B7Sno94GLM-3UG12RG42d2U3aGc
+  podiumimg: 20170423.png
+  sailors: 
+   -
+      pos: 1
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 2
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 3
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 4
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 5
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 6
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 7
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 8
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 9
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 10
+      sailorid: wout_de_bondt
+      clubid: wvd
+   -
+      pos: 11
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 12
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 13
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 14
+      sailorid: cloe_theys
+      clubid: vvwgal
+   -
+      pos: 15
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 16
+      sailorid: mathieu_teughels
+      clubid: wvd
+   -
+      pos: 17
+      sailorid: nagui_case
+      clubid: bryc
+
+-
+  name: Spirou Trophy - IYCI Ittre
+  clubid: 
+  raceid: 20170501
+  day: 1
+  month: 5
+  year: 2017
+  photolink: https://flic.kr/s/aHsm43Pi2N
+  resultslink: https://drive.google.com/open?id=1jFnAPLm1uWgvreQVBLJpNKJ__QVrKh2X
+  podiumimg: 20170501.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 2
+      sailorid: wout_de_bondt
+      clubid: wvd
+   -
+      pos: 3
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 4
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 5
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 6
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 7
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 8
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 9
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 10
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 12
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 13
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 15
+      sailorid: cloe_theys
+      clubid: vvwgal
+   -
+      pos: 16
+      sailorid: nagui_case
+      clubid: bryc
+   -
+      pos: 17
+      sailorid: yael_verdier
+      clubid: gyc
+   -
+      pos: 18
+      sailorid: zoe_lefeur
+      clubid: bbc
+   -
+      pos: 19
+      sailorid: amelie_chabot
+      clubid: sneh
+   -
+      pos: 20
+      sailorid: camille_chabot
+      clubid: sneh
+-
+  name: Spirou Trophy - WVD Mechelen
+  clubid: wvd
+  raceid: 20170507
+  day: 7
+  month: 5
+  year: 2017
+  photolink: 
+  resultslink: https://drive.google.com/open?id=1DlFW6Em5XAwmwfimbFPQo_3c-qfBHIF3
+  podiumimg: 20170507.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 2
+      sailorid: wout_de_bondt
+      clubid: wvd
+   -
+      pos: 3
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 4
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 5
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 6
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 7
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 8
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 9
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 10
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 11
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 12
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 13
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 14
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 15
+      sailorid: nagui_case
+      clubid: bryc
+   -
+      pos: 16
+      sailorid: yael_verdier
+      clubid: gyc
+   -
+      pos: 17
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 18
+      sailorid: cloe_theys
+      clubid: vvwgal
+   -
+      pos: 19
+      sailorid: mathieu_teughels
+      clubid: wvd
+
+-
+  name: Spirou Trophy - RYCM Liège
+  clubid: rycm
+  raceid: 20170514
+  day: 14
+  month: 5
+  year: 2017
+  photolink: https://flic.kr/s/aHsm1qaV63
+  resultslink: https://drive.google.com/open?id=1dY8eTFCkV7HAG7RUbNrPQHOuLWE5zELH
+  podiumimg: 20170514.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: joren_van_cauwenberge
+      clubid: nwv
+   -
+      pos: 2
+      sailorid: wout_de_bondt
+      clubid: wvd
+   -
+      pos: 3
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 4
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 5
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 6
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 7
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 8
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 9
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 10
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 11
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 12
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 13
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: nagui_case
+      clubid: bryc
+   -
+      pos: 15
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 16
+      sailorid: yael_verdier
+      clubid: gyc
+   -
+      pos: 17
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 18
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 19
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 20
+      sailorid: amelie_chabot
+      clubid: sneh
+   -
+      pos: 21
+      sailorid: cloe_theys
+      clubid: vvwgal
+   -
+      pos: 22
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 23
+      sailorid: camille_chabot
+      clubid: sneh
+   -
+      pos: 24
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 25
+      sailorid: mathieu_teughels
+      clubid: wvd
+   -
+      pos: 26
+      sailorid: zoe_lefeur
+      clubid: bbc
+
+-
+  name: Spirou Trophy - RCNMB Mons Grand Large
+  clubid: rcnmb
+  raceid: 20170521
+  day: 21
+  month: 5
+  year: 2017
+  photolink: https://flic.kr/s/aHsm5Hm6ro
+  resultslink: https://drive.google.com/open?id=17h2ueGAFI3rSGPA9LbYjNUgjMj5sNhmZ
+  podiumimg: 20170521.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 2
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 3
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 4
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 5
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 6
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 7
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 8
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 9
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 10
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: cloe_theys
+      clubid: vvwgal
+   -
+      pos: 12
+      sailorid: amelie_chabot
+      clubid: sneh
+   -
+      pos: 13
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: mathieu_teughels
+      clubid: wvd
+   -
+      pos: 15
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 16
+      sailorid: camille_chabot
+      clubid: sneh
+   -
+      pos: 17
+      sailorid: nagui_case
+      clubid: bryc
+   -
+      pos: 18
+      sailorid: yael_verdier
+      clubid: gyc
+-
+  name: Spirou Trophy - BZYC Brugge
+  clubid: bzyc
+  raceid: 20170625
+  day: 25
+  month: 6
+  year: 2017
+  photolink: https://flic.kr/s/aHsm43Noqf
+  resultslink: 
+  podiumimg: 20170625.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 2
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 3
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 4
+      sailorid: wout_de_bondt
+      clubid: wvd
+   -
+      pos: 5
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 6
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 7
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 8
+      sailorid: joren_van_cauwenberge
+      clubid: nwv
+   -
+      pos: 9
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 10
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 11
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 12
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 13
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: nagui_case
+      clubid: bryc
+   -
+      pos: 15
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 16
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 17
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 18
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 19
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 20
+      sailorid: cloe_theys
+      clubid: vvwgal
+   -
+      pos: 21
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 22
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 23
+      sailorid: yael_verdier
+      clubid: gyc
+   -
+      pos: 24
+      sailorid: isaac_tierens
+      clubid: wwsk
+   -
+      pos: 25
+      sailorid: mathieu_teughels
+      clubid: wvd
+-
+  name: Spirou Trophy - Coupe Charles Bertels
+  clubid: sneh
+  raceid: 20170819
+  day: 19
+  month: 8
+  year: 2017
+  photolink: 
+  resultslink: https://drive.google.com/open?id=1OFbjQ3EmWOj-2ej83jC9Uw1gaFV5KE8O
+  podiumimg: 20170819.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 2
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 3
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 4
+      sailorid: joren_van_cauwenberge
+      clubid: nwv
+   -
+      pos: 5
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 6
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 7
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 8
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 9
+      sailorid: wout_de_bondt
+      clubid: wvd
+   -
+      pos: 10
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 11
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 12
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 13
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 15
+      sailorid: amelie_chabot
+      clubid: sneh
+   -
+      pos: 16
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 17
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 18
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 19
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 20
+      sailorid: camille_chabot
+      clubid: sneh
+   -
+      pos: 21
+      sailorid: cloe_theys
+      clubid: vvwgal
+      
+-
+  name: Spirou Trophy - RYCW Bütgenbach
+  clubid: rycw
+  raceid: 20170826
+  day: 26
+  month: 8
+  year: 2017
+  photolink: https://flic.kr/s/aHskpfaLH3
+  resultslink: https://drive.google.com/open?id=1DEzc6TO-C280ADIYFHSa_g41dQGia4ZT
+  podiumimg: 20170826.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 2
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 3
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 4
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 5
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 6
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 7
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 8
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 9
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 10
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 11
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 12
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 13
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 15
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 16
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 17
+      sailorid: nagui_case
+      clubid: bryc
+   -
+      pos: 18
+      sailorid: axel_holderbeke
+      clubid: sneh
+-
+  name: Spirou Trophy - OBK/CBO Plate Taille
+  clubid: sneh
+  raceid: 20170902
+  day: 2
+  month: 9
+  year: 2017
+  photolink: 
+  resultslink: https://drive.google.com/open?id=1ldMkvMGDRenSoBzWHxbTXqwiPlDOculp
+  podiumimg: 20170903.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 2
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 3
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 4
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 5
+      sailorid: joren_van_cauwenberge
+      clubid: nwv
+   -
+      pos: 6
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 7
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 8
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 9
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 10
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 12
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 13
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 15
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 16
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 17
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 18
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 19
+      sailorid: amelie_chabot
+      clubid: sneh
+   -
+      pos: 20
+      sailorid: nagui_case
+      clubid: bryc
+   -
+      pos: 21
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 22
+      sailorid: camille_chabot
+      clubid: sneh
+   -
+      pos: 23
+      sailorid: cloe_theys
+      clubid: vvwgal
+   -
+      pos: 24
+      sailorid: mathieu_teughels
+      clubid: wvd
+   -
+      pos: 25
+      sailorid: zoe_lefeur
+      clubid: bbc
+-
+  name: Spirou Trophy - BRYC Brussels
+  clubid: bryc
+  raceid: 20170910
+  day: 10
+  month: 9
+  year: 2017
+  photolink: 
+  resultslink: https://drive.google.com/open?id=1U35VRxTU89St9hpWiU6JIzg8Jw2eBHue
+  podiumimg: 20170910.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 2
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 3
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 4
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 5
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 6
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 7
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 8
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 9
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 10
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 12
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 13
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 15
+      sailorid: nagui_case
+      clubid: bryc
+   -
+      pos: 16
+      sailorid: mathieu_teughels
+      clubid: wvd
+   -
+      pos: 17
+      sailorid: zoe_lefeur
+      clubid: bbc
+   -
+      pos: 18
+      sailorid: casaer_valerie
+      clubid: nwv
+-
+  name: Spirou Trophy - RBSC Heusden
+  clubid: rbsc
+  raceid: 20170917
+  day: 17
+  month: 9
+  year: 2017
+  photolink: 
+  resultslink: https://drive.google.com/open?id=1PXeVqXXCEzxFcOY9abChBGogTesbxpE7
+  podiumimg: 20170917.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 2
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 3
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 4
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 5
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 6
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 7
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 8
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 9
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 10
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 12
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 13
+      sailorid: amelie_chabot
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: camille_chabot
+      clubid: sneh
+   -
+      pos: 15
+      sailorid: isaac_tierens
+      clubid: wwsk
+-
+  name: Spirou Trophy - Beez Boating Club
+  clubid: bbc
+  raceid: 20171001
+  day: 1
+  month: 10
+  year: 2017
+  photolink: 
+  resultslink: https://drive.google.com/open?id=1iq36Nr3usimRQSZbsifoEHmsHxWHNzss
+  podiumimg: 20171001.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 2
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 3
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 4
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 5
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 6
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 7
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 8
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 9
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 10
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 11
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 12
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 13
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 15
+      sailorid: mathieu_teughels
+      clubid: wvd
+   -
+      pos: 16
+      sailorid: amelie_chabot
+      clubid: sneh
+   -
+      pos: 17
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 18
+      sailorid: camille_chabot
+      clubid: sneh
+   -
+      pos: 19
+      sailorid: zoe_lefeur
+      clubid: bbc
+-
+  name: Spirou Trophy - ZSG Gavermeer
+  clubid: zsg
+  raceid: 20171008
+  day: 8
+  month: 10
+  year: 2017
+  photolink: 
+  resultslink: https://drive.google.com/open?id=18v1Jqp_05JHVAOMWi0XwUuxMrNJbKDap
+  podiumimg: 20171008.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 2
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 3
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 4
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 5
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 6
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 7
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 8
+      sailorid: eloise_van_houten
+      clubid: sneh
+   -
+      pos: 9
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 10
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 12
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 13
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 15
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 16
+      sailorid: arthur_teughels
+      clubid: wvd
+   -
+      pos: 17
+      sailorid: casaer_valerie
+      clubid: nwv
+   -
+      pos: 18
+      sailorid: mathieu_teughels
+      clubid: wvd
+   -
+      pos: 19
+      sailorid: yael_verdier
+      clubid: gyc
+-
+  name: Spirou Trophy - ZSC Broechem
+  clubid: zscbroechem
+  raceid: 20171015
+  day: 15
+  month: 10
+  year: 2017
+  photolink: 
+  resultslink: 
+  podiumimg: 20171015.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 2
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 3
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 4
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 5
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 6
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 7
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 8
+      sailorid: wout_de_bondt
+      clubid: wvd
+   -
+      pos: 9
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 10
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 12
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 13
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 14
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 15
+      sailorid: yael_verdier
+      clubid: gyc
+-
+  name: Spirou Trophy - VVW Inside Oostende
+  clubid: vvwinout
+  raceid: 20171022
+  day: 22
+  month: 10
+  year: 2017
+  photolink: 
+  resultslink: https://drive.google.com/open?id=1CG1KunuKGO7RBnsGTIzVKp3iVSKfKcC3
+  podiumimg: 20171022.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 2
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 3
+      sailorid: benjamin_van_oekel
+      clubid: bbc
+   -
+      pos: 4
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 5
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 6
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 7
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 8
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 9
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 10
+      sailorid: jerome_teughels
+      clubid: wvd
+   -
+      pos: 11
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 11
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: lars_van_der_speeten
+      clubid: vvwkel
+   -
+      pos: 11
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: yael_verdier
+      clubid: gyc
+-
+  name: Spirou Trophy - VYF Cup Heusden
+  clubid: rbsc
+  raceid: 20171112
+  day: 12
+  month: 11
+  year: 2017
+  photolink: 
+  resultslink: https://drive.google.com/open?id=1diLrJzAXikHQ0VxLWZ0pczwO5pZQRpdK
+  podiumimg: 20171112.jpg
+  sailors: 
+   -
+      pos: 1
+      sailorid: warre_van_hecke
+      clubid: nwv
+   -
+      pos: 2
+      sailorid: gatien_mahieux
+      clubid: sneh
+   -
+      pos: 3
+      sailorid: matis_doyen
+      clubid: sneh
+   -
+      pos: 4
+      sailorid: victor_pille
+      clubid: zsg
+   -
+      pos: 5
+      sailorid: alberto_da_col
+      clubid: bryc
+   -
+      pos: 6
+      sailorid: sander_aerts
+      clubid: nwv
+   -
+      pos: 7
+      sailorid: victor_cambier
+      clubid: sneh
+   -
+      pos: 8
+      sailorid: alice_da_col
+      clubid: bryc
+   -
+      pos: 9
+      sailorid: gwenael_holderbeke
+      clubid: sneh
+   -
+      pos: 10
+      sailorid: axel_holderbeke
+      clubid: sneh
+   -
+      pos: 11
+      sailorid: gauthier_de_marnix
+      clubid: sneh
+   -
+      pos: 12
+      sailorid: tanguy_paternoster
+      clubid: sneh
+   -
+      pos: 13
+      sailorid: kobe_de_clercq
+      clubid: wwsk
+   -
+      pos: 14
+      sailorid: gabriel_seyler
+      clubid: sneh
+   -
+      pos: 15
+      sailorid: yael_verdier
+      clubid: gyc
+   -
+      pos: 16
+      sailorid: casaer_valerie
+      clubid: nwv

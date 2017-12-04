@@ -109,6 +109,10 @@ img {
 
 /* --- Navbar --- */
 
+.navbar-icon {
+  font-size: 160%;
+}
+
 .navbar-custom {
   background: #F5F5F5; // $SpirouBlue;
   border-bottom: 1px solid #EAEAEA;
@@ -121,10 +125,23 @@ img {
   letter-spacing: 1px;
 }
 
-.navbar-custom .navbar-brand,
+.navbar-custom,
 .navbar-custom .nav li a {
   font-weight: 800;
   color: $SpirouBody;
+}
+a.navbar-brand, a.navbar-lang {
+  font-weight: 800;
+  color: $SpirouOrange;
+}
+
+div.navbar-lang {
+  margin: 7.5px 15px;
+}
+
+a.navbar-brand, a.navbar-lang-selected {
+  font-weight: 800;
+  color: $SpirouRed !important;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -715,4 +732,33 @@ td.gutter {
 }
 .google-maps iframe.clicked {
 	pointer-events: auto;
+}
+
+div.sponsor {
+    text-align: center;  
+}
+
+span[class^="medal"] {
+  background-repeat: no-repeat;
+  background-size: 32px 32px;
+  padding-left: 48px;
+  height: 32px;
+  display: block;  
+}
+
+.medal1
+{
+  background-image: url('icons/medal1.png');
+}
+.medal2
+{
+  background-image: url('icons/medal2.png');
+}
+.medal3
+{
+  background-image: url('icons/medal3.png');
+}
+table.raceresults th
+{
+  background-color: $SpirouSkin
 }

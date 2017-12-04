@@ -24,16 +24,37 @@ description: Spirou Sailors have more fun!
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
-  Calendar: "calendar"
-  Trophy: "trophy"
   Info:
+    - Sailors: "sailors"
     - Sailing rules: "rules"
     - Documents: "documents"
     - Press: "press"
+  fa-calendar: "calendar"
+  fa-trophy: "trophy"
+
+navbar-links-nl:
+  Over ons: "aboutus"
+  Info:
+    - Zeilers: "sailors"
+    - Regelementen: "rules"
+    - Documenten: "documents"
+    - Pers: "press"
+  fa-calendar: "calendar"
+  fa-trophy: "trophy"
+    
+navbar-links-fr:
+  A propos de nous: "aboutus"
+  Info:
+    - Sailors: "sailors"
+    - Sailing rules: "rules"
+    - Documents: "documents"
+    - Presse: "press"    
+  fa-calendar: "calendar"
+  fa-trophy: "trophy"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/main/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -207,9 +228,55 @@ prose:
 
 gems:
   - jekyll-paginate
+  - jekyll-polyglot  
+  - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
 #spirou
-mapsinclude: "/maps/"
+# collection for sailors
+collections:
+  sailors:
+    output: true
+
+#jekyll-polyglot  
+languages: ["en", "nl", "fr"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
+
+location:
+  en: Location
+  nl: Plaats
+  fr: Lieu
+
+NORannounce:
+  en: Notice of Race
+  nl: Wedstrijdaankondiging
+  fr: Avis de course
+  
+Rank:
+  en: Rank
+  nl: Plaats
+  fr: Place
+  
+Sailor:
+  en: Sailor
+  nl: Zeiler
+  fr: Marin
+
+RaceResults:
+  en: Race Results
+  nl: Wedstrijdresultaten
+  fr: Résultats de match
+
+ReadMore:
+  en: Read More
+  nl: Lees Meer
+  fr: Lire la suite
+
+OtherSailors:
+  en: Other Sailors
+  nl: Andere Spirou Zeilers
+  fr: D'autres Spiroutiste

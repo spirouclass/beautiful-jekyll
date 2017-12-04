@@ -1,0 +1,26 @@
+<!-- clubinfo: {{ page.clubid }} -->
+<div class="container clublocation">
+
+{% if clubid == "" %}
+{% assign clubid = page.clubid %}
+{% endif %}
+{% assign club = site.data.clubs | where: 'clubid', page.clubid | first %}
+<div class="row">
+    <div class="col-sm-12">
+        <h4 class="club">{{ club.name }}</h4>
+    </div>
+</div>
+<div class="row">
+        <div class="col-sm-4">
+            {% include map.html src=club.mapincludeurl %}
+        </div>
+        <div class="col-sm-8">
+            <p class="adres">
+            {{ club.address1 }}<br/>
+            {{ club.address2 }}<br/>
+            {{ club.address3 }}<br/>
+            </p>
+            <p class="hyperlink"><a href="http://{{ club.url }}" target="_blank">{{ club.url }}</a></p>
+        </div>
+    </div>
+</div>

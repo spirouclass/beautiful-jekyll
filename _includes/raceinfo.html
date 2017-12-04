@@ -1,0 +1,28 @@
+<!-- raceinfo: {{ page.raceid }} -->
+<div class="container raceinfo">
+{% if raceid == "" %}
+{% assign raceid = page.raceid %}
+{% endif %}
+{% if podiumimg == "" %}
+{% assign podiumimg = page.podiumimg %}
+{% endif %}
+{% assign race = site.data.results | where: 'raceid', page.raceid | first %}
+<div class="row">
+    <h4 class="race">{{ race.name }}</h4>
+    <h5 class="date">{{ race.day }}/{{ race.month }}/{{ race.year }}</h5>
+    <div class="row">
+      <div class="col-sm-8">
+        <img src="/img/podium/{{race.podiumimg}}" width="100%">  
+      </div>
+      <div class="col-sm-4">
+        <p>
+            {% for counter in (0..2) %}
+                {% assign sailor = site.sailors | where: 'sailorid', race.sailors[counter].sailorid  | first %}
+                <span class="medal{{race.sailors[counter].pos}}">
+                <a href="/sailors/{{sailor.sailorid}}">{{ sailor.firstname }}</a></span>
+                <br />
+            {% endfor %}
+        </p>
+      </div>
+    </div>
+</div>
