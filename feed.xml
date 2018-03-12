@@ -7,17 +7,6 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Spirou Trophy - Sail@ccess Genval Yacht Club</title>
-        <description>
-          11/03/2018 - 
-          Spirou Trophy - Sail@ccess Genval Yacht Club 11/3/2018 Victor Eloïse Alberto Rank Sailor Club 1 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 2 Eloïse&amp;nbsp;Van Houten Sports Nautiques de l'Eau d'Heure 3 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Wout&amp;nbsp;De Bondt WVD Mechelen 5 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 6 Tanguy&amp;nbsp;Paternoster Sports...
-        </description>
-        <pubDate>Sun, 11 Mar 2018 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:8080/2018-03-11-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-11-results/</guid>
-      </item>
-    
-      <item>
         <title>Notice of Race - KLYC Galgenweel Antwerpen</title>
         <description>
           18/03/2018 - 
@@ -51,9 +40,20 @@
 
 
         </description>
-        <pubDate>Thu, 01 Mar 2018 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:8080/2018-03-01-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-01-nor/</guid>
+        <pubDate>Mon, 12 Mar 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-03-12-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-12-nor/</guid>
+      </item>
+    
+      <item>
+        <title>Spirou Trophy - Sail@ccess Genval Yacht Club</title>
+        <description>
+          11/03/2018 - 
+          Spirou Trophy - Sail@ccess Genval Yacht Club 11/3/2018 Victor Eloïse Alberto Rank Sailor Club 1 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 2 Eloïse&amp;nbsp;Van Houten Sports Nautiques de l'Eau d'Heure 3 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Wout&amp;nbsp;De Bondt WVD Mechelen 5 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 6 Tanguy&amp;nbsp;Paternoster Sports...
+        </description>
+        <pubDate>Sun, 11 Mar 2018 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:8080/2018-03-11-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-11-results/</guid>
       </item>
     
       <item>
