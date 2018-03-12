@@ -7,6 +7,56 @@
     <atom:link href="/nl/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Spirou Trophy - Sail@ccess Genval Yacht Club</title>
+        <description>
+          11/03/2018 - 
+          Spirou Trophy - Sail@ccess Genval Yacht Club 11/3/2018 Victor Eloïse Alberto Plaats Zeiler Club 1 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 2 Eloïse&amp;nbsp;Van Houten Sports Nautiques de l'Eau d'Heure 3 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Wout&amp;nbsp;De Bondt WVD Mechelen 5 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 6 Tanguy&amp;nbsp;Paternoster Sports...
+        </description>
+        <pubDate>Sun, 11 Mar 2018 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:8080/2018-03-11-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-11-results/</guid>
+      </item>
+    
+      <item>
+        <title>Notice of Race - KLYC Galgenweel Antwerpen</title>
+        <description>
+          18/03/2018 - 
+           Wedstrijdaankondiging
+
+
+
+
+
+
+
+    
+        Koninklijke Liberty Yacht Club
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Beatrijslaan 90
+            2050 Antwerpen
+            Belgium
+            
+            klyc.be
+        
+    
+
+
+        </description>
+        <pubDate>Thu, 01 Mar 2018 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:8080/2018-03-01-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-01-nor/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - SAIL@CCESS Genval Yacht Club</title>
         <description>
           11/03/2018 - 
@@ -258,28 +308,6 @@
         <pubDate>Sun, 14 May 2017 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2017-05-14-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2017-05-14-results/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - Moederdagrace WVD Mechelen</title>
-        <description>
-          07/05/2017 - 
-          Spirou Trophy - WVD Mechelen 7/5/2017 Warre Wout Jérôme Plaats Zeiler Club 1 Warre&amp;nbsp;Van Hecke Nievdonckse Watersport Vereniging 2 Wout&amp;nbsp;De Bondt WVD Mechelen 3 Jérôme&amp;nbsp;Teughels WVD Mechelen 4 Matis&amp;nbsp;Doyen Sports Nautiques de l'Eau d'Heure 5 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 6 Gatien&amp;nbsp;Mahieux Sports Nautiques de l'Eau d'Heure 7 Benjamin&amp;nbsp;Van Oekel...
-        </description>
-        <pubDate>Sun, 07 May 2017 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2017-05-07-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2017-05-07-results/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - IYCI Ittre</title>
-        <description>
-          01/05/2017 - 
-          Spirou Trophy - IYCI Ittre 1/5/2017 Matis Wout Eloïse Plaats Zeiler Club 1 Matis&amp;nbsp;Doyen Sports Nautiques de l'Eau d'Heure 2 Wout&amp;nbsp;De Bondt WVD Mechelen 3 Eloïse&amp;nbsp;Van Houten Sports Nautiques de l'Eau d'Heure 4 Benjamin&amp;nbsp;Van Oekel Beez Boating Club 5 Warre&amp;nbsp;Van Hecke Nievdonckse Watersport Vereniging 6 Gatien&amp;nbsp;Mahieux Sports Nautiques de l'Eau...
-        </description>
-        <pubDate>Mon, 01 May 2017 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2017-05-01-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2017-05-01-results/</guid>
       </item>
     
   </channel>
