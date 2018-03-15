@@ -7,10 +7,51 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Notice of Race - KLYC Galgenweel Antwerpen</title>
+        <title>Notice of Race - Nievdonckse watersportvereniging</title>
+        <description>
+          02/04/2018 - 
+           Avis de course
+
+
+
+
+
+
+
+    
+        Nievdonckse Watersport Vereniging
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Dendermondse Steenweg 13a
+            9290 Berlare
+            Belgium
+            
+            www.nwv-nd.be
+        
+    
+
+
+        </description>
+        <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-03-15-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-15-nor/</guid>
+      </item>
+    
+      <item>
+        <title>Race is CANCELLED - KLYC Galgenweel Antwerpen</title>
         <description>
           18/03/2018 - 
-           Avis de course
+          Due to the extreme weather conditions the comite has decided to cancel the race
+
+ Avis de course
 
 
 
@@ -297,17 +338,6 @@
         <pubDate>Sun, 21 May 2017 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2017-05-21-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2017-05-21-results/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - RYCM Liège</title>
-        <description>
-          14/05/2017 - 
-          Spirou Trophy - RYCM Liège 14/5/2017 Joren Wout Warre Place Marin Club 1 Joren&amp;nbsp;Van Cauwenberge Nievdonckse Watersport Vereniging 2 Wout&amp;nbsp;De Bondt WVD Mechelen 3 Warre&amp;nbsp;Van Hecke Nievdonckse Watersport Vereniging 4 Matis&amp;nbsp;Doyen Sports Nautiques de l'Eau d'Heure 5 Eloïse&amp;nbsp;Van Houten Sports Nautiques de l'Eau d'Heure 6 Benjamin&amp;nbsp;Van Oekel Beez Boating Club...
-        </description>
-        <pubDate>Sun, 14 May 2017 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2017-05-14-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2017-05-14-results/</guid>
       </item>
     
   </channel>
