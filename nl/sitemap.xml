@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:8080/2018-04-16-nor</loc>
+<loc>http://0.0.0.0:8080/2018-04-23-nor/</loc>
+<lastmod>2018-04-23T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/2018-04-22-results/</loc>
+<lastmod>2018-04-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/2018-04-16-nor/</loc>
 <lastmod>2018-04-16T00:00:00-07:00</lastmod>
 </url>
 <url>
@@ -241,6 +249,9 @@
 </url>
 <url>
 <loc>http://0.0.0.0:8080/sailors/octave_desmet/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/sailors/romain_walschaerts/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:8080/sailors/sacha_hofmans/</loc>

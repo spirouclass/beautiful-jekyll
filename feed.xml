@@ -7,6 +7,56 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - IYCI Ittre</title>
+        <description>
+          01/05/2018 - 
+           Notice of Race
+
+
+
+
+
+
+
+    
+        International Yachting Club Ittre
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Rue du Sart 45
+            1460 Ittre
+            Belgium
+            
+            www.interyacht.be
+        
+    
+
+
+        </description>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-04-23-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-23-nor/</guid>
+      </item>
+    
+      <item>
+        <title>Spirou Trophy - Brugge Sint-Pietersplas</title>
+        <description>
+          22/04/2018 - 
+          Spirou Trophy - VVW Brugge Sint-Pietersplas 22/4/2018 Victor Sander Eloïse Rank Sailor Club 1 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 2 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 3 Eloïse&amp;nbsp;Van Houten Sports Nautiques de l'Eau d'Heure 4 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 5 Tanguy&amp;nbsp;Paternoster Sports Nautiques de l'Eau d'Heure 6 Wout&amp;nbsp;De Bondt WVD...
+        </description>
+        <pubDate>Sun, 22 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-04-22-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-22-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - VVW Brugge Sint-Pietersplas</title>
         <description>
           22/04/2018 - 
@@ -41,8 +91,8 @@
 
         </description>
         <pubDate>Mon, 16 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-04-16-nor</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-16-nor</guid>
+        <link>http://0.0.0.0:8080/2018-04-16-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-16-nor/</guid>
       </item>
     
       <item>
@@ -384,28 +434,6 @@ Here are some screenshots from the past:
         <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2017-10-01-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2017-10-01-results/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - RBSC Heusden</title>
-        <description>
-          17/09/2017 - 
-          Spirou Trophy - RBSC Heusden 17/9/2017 Kobe Victor Matis Rank Sailor Club 1 Kobe&amp;nbsp;De Clercq WWSK Willebroek 2 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 3 Matis&amp;nbsp;Doyen Sports Nautiques de l'Eau d'Heure 4 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 5 Lars&amp;nbsp;Van Der Speeten VVW Kelchteren 6 Warre&amp;nbsp;Van Hecke Nievdonckse Watersport Vereniging 7 Alice&amp;nbsp;Da Col...
-        </description>
-        <pubDate>Sun, 17 Sep 2017 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2017-09-17-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2017-09-17-results/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - BRYC Brussels</title>
-        <description>
-          10/09/2017 - 
-          Spirou Trophy - BRYC Brussels 10/9/2017 Benjamin Matis Warre Rank Sailor Club 1 Benjamin&amp;nbsp;Van Oekel Beez Boating Club 2 Matis&amp;nbsp;Doyen Sports Nautiques de l'Eau d'Heure 3 Warre&amp;nbsp;Van Hecke Nievdonckse Watersport Vereniging 4 Kobe&amp;nbsp;De Clercq WWSK Willebroek 5 Tanguy&amp;nbsp;Paternoster Sports Nautiques de l'Eau d'Heure 6 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 7...
-        </description>
-        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2017-09-10-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2017-09-10-results/</guid>
       </item>
     
   </channel>
