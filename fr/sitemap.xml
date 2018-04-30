@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:8080/2018-04-23-nor/</loc>
-<lastmod>2018-04-23T00:00:00-07:00</lastmod>
+<loc>http://0.0.0.0:8080/2018-05-06-nor/</loc>
+<lastmod>2018-05-06T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/2018-05-01-nor/</loc>
+<lastmod>2018-05-01T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://0.0.0.0:8080/2018-04-22-results/</loc>
@@ -158,6 +162,9 @@
 <loc>http://0.0.0.0:8080/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:8080/nor/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:8080/rules/</loc>
 </url>
 <url>
@@ -165,12 +172,6 @@
 </url>
 <url>
 <loc>http://0.0.0.0:8080/trophy/</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:8080/tag/results/</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:8080/tag/nor/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:8080/sailors/alberto_da_col/</loc>
@@ -282,5 +283,9 @@
 </url>
 <url>
 <loc>http://0.0.0.0:8080/sailors/zoe_lefeur/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/indexFR.html</loc>
+<lastmod>2018-04-30T11:55:32-07:00</lastmod>
 </url>
 </urlset>

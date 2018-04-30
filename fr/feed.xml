@@ -7,6 +7,17 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - SNEH</title>
+        <description>
+          06/05/2018 - 
+          Pour la régate à la Plate Taille du 6 mai, il est important de s’inscrire en ligne AVANT LE LUNDI 30 AVRIL. Les inscriptions sur place le dimanche matin sont possibles mais, serons les nouvelles règles du club, si au 30 avril il n’y aura pas 10 bateaux inscrits, la...
+        </description>
+        <pubDate>Sun, 06 May 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-05-06-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-05-06-nor/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - IYCI Ittre</title>
         <description>
           01/05/2018 - 
@@ -40,9 +51,9 @@
 
 
         </description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-04-23-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-23-nor/</guid>
+        <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-05-01-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-05-01-nor/</guid>
       </item>
     
       <item>
@@ -413,17 +424,6 @@
         <pubDate>Sun, 08 Oct 2017 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2017-10-08-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2017-10-08-results/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - Beez Boating Club</title>
-        <description>
-          1/10/2017 - 
-          Spirou Trophy - Beez Boating Club 1/10/2017 Matis Warre Sander Place Marin Club 1 Matis&amp;nbsp;Doyen Sports Nautiques de l'Eau d'Heure 2 Warre&amp;nbsp;Van Hecke Nievdonckse Watersport Vereniging 3 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 4 Jérôme&amp;nbsp;Teughels WVD Mechelen 5 Kobe&amp;nbsp;De Clercq WWSK Willebroek 6 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 7 Gatien&amp;nbsp;Mahieux Sports Nautiques...
-        </description>
-        <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2017-10-01-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2017-10-01-results/</guid>
       </item>
     
   </channel>

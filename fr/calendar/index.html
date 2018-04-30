@@ -77,7 +77,17 @@
   
 
    
-  <meta property="og:description" content="[Doodle Race](https://doodle.com/poll/xubwurbpkznezk9v)
+  <meta property="og:description" content="{% case site.active_lang %}
+  {% when &quot;nl&quot; %}
+[Wedstrijdaankondigingen](/nor)
+  {% when &quot;fr&quot; %}
+[Avis de course](/nor)
+  {% when &quot;en&quot; %}
+[Notice Of Races](/nor)
+{% endcase %}
+
+
+[Doodle Race](https://doodle.com/poll/xubwurbpkznezk9v)
 
 [Doodle Stage](https://doodle.com/poll/wf82ws6m2srhwp7y)
 
@@ -110,7 +120,17 @@
   
 
   
-  <meta name="twitter:description" content="[Doodle Race](https://doodle.com/poll/xubwurbpkznezk9v)
+  <meta name="twitter:description" content="{% case site.active_lang %}
+  {% when &quot;nl&quot; %}
+[Wedstrijdaankondigingen](/nor)
+  {% when &quot;fr&quot; %}
+[Avis de course](/nor)
+  {% when &quot;en&quot; %}
+[Notice Of Races](/nor)
+{% endcase %}
+
+
+[Doodle Race](https://doodle.com/poll/xubwurbpkznezk9v)
 
 [Doodle Stage](https://doodle.com/poll/wf82ws6m2srhwp7y)
 
@@ -324,7 +344,10 @@
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <p><a href="https://doodle.com/poll/xubwurbpkznezk9v">Doodle Race</a></p>
+      
+<p><a href="/fr/nor">Avis de course</a></p>
+
+<p><a href="https://doodle.com/poll/xubwurbpkznezk9v">Doodle Race</a></p>
 
 <p><a href="https://doodle.com/poll/wf82ws6m2srhwp7y">Doodle Stage</a></p>
 
