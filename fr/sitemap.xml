@@ -5,6 +5,10 @@
 <lastmod>2018-05-06T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://0.0.0.0:8080/2018-05-01-results/</loc>
+<lastmod>2018-05-01T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:8080/2018-05-01-nor/</loc>
 <lastmod>2018-05-01T00:00:00-07:00</lastmod>
 </url>
@@ -172,6 +176,12 @@
 </url>
 <url>
 <loc>http://0.0.0.0:8080/trophy/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/tag/results/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/tag/nor/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:8080/sailors/alberto_da_col/</loc>
