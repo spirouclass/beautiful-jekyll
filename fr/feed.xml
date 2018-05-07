@@ -7,6 +7,28 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - RYCM Liège</title>
+        <description>
+          06/05/2018 - 
+          1 - on-line inschrijving op de web pagina van de club https://solitaire.rycm.be 2 - lunch : het is mogelijk om “boulets-frites” te reserveren (6€ voor een boulet, 8€ voor 2) op https://catering.rycm.be voor woensdag 9 mei. 3 - betaling : het is mogelijk om inschrijving en lunch per overschrijving te...
+        </description>
+        <pubDate>Sun, 13 May 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-05-13-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-05-13-nor/</guid>
+      </item>
+    
+      <item>
+        <title>Spirou Trophy - SNEH</title>
+        <description>
+          06/05/2018 - 
+          Spirou Trophy - SNEH 6/5/2018 Victor Gatien Eloïse Place Marin Club 1 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 2 Gatien&amp;nbsp;Mahieux Sports Nautiques de l'Eau d'Heure 3 Eloïse&amp;nbsp;Van Houten Sports Nautiques de l'Eau d'Heure 4 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 5 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 6 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht...
+        </description>
+        <pubDate>Sun, 06 May 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-05-06-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-05-06-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - SNEH</title>
         <description>
           06/05/2018 - 
@@ -432,28 +454,6 @@
         <pubDate>Sun, 12 Nov 2017 00:00:00 -0800</pubDate>
         <link>http://0.0.0.0:8080/2017-11-12-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2017-11-12-results/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - VVW Inside Oostende</title>
-        <description>
-          22/10/2017 - 
-          Spirou Trophy - VVW Inside Oostende 22/10/2017 Matis Warre Benjamin Place Marin Club 1 Matis&amp;nbsp;Doyen Sports Nautiques de l'Eau d'Heure 2 Warre&amp;nbsp;Van Hecke Nievdonckse Watersport Vereniging 3 Benjamin&amp;nbsp;Van Oekel Beez Boating Club 4 Gatien&amp;nbsp;Mahieux Sports Nautiques de l'Eau d'Heure 5 Gauthier&amp;nbsp;De Marnix Sports Nautiques de l'Eau d'Heure 6 Axel&amp;nbsp;Holderbeke Sports...
-        </description>
-        <pubDate>Sun, 22 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2017-10-22-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2017-10-22-results/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - ZSC Broechem</title>
-        <description>
-          15/10/2017 - 
-          Spirou Trophy - ZSC Broechem 15/10/2017 Sander Victor Matis Place Marin Club 1 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 2 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 3 Matis&amp;nbsp;Doyen Sports Nautiques de l'Eau d'Heure 4 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 5 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 6 Warre&amp;nbsp;Van Hecke Nievdonckse Watersport Vereniging...
-        </description>
-        <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2017-10-15-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2017-10-15-results/</guid>
       </item>
     
   </channel>
