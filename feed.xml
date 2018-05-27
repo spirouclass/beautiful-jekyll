@@ -7,6 +7,17 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Spirou Trophy - Schulensmeer</title>
+        <description>
+          20/05/2018 - 
+          Spirou Trophy - Schulensmeer 20/5/2018 Sander Gwenaël Alberto Rank Sailor Club 1 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 2 Gwenaël&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 3 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 5 Tanguy&amp;nbsp;Paternoster Sports Nautiques de l'Eau d'Heure 6 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club...
+        </description>
+        <pubDate>Sun, 20 May 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-05-20-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-05-20-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - Schulensmeer</title>
         <description>
           20/05/2018 - 
@@ -473,27 +484,6 @@
         <pubDate>Fri, 26 Jan 2018 00:00:00 -0800</pubDate>
         <link>http://0.0.0.0:8080/BelgianBoatShow2018/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/BelgianBoatShow2018/</guid>
-      </item>
-    
-      <item>
-        <title>A fresh new look</title>
-        <description>
-          26/11/2017 - 
-          The website from the Spirou Class had a makeover. As technology moves on, so does the website.
-
-
-
-Here are some screenshots from the past:
-
-
-
-
-
-
-        </description>
-        <pubDate>Sat, 09 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:8080/2017-12-09-website/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2017-12-09-website/</guid>
       </item>
     
   </channel>
