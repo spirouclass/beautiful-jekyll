@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://0.0.0.0:8080/2018-08-20-nor</loc>
+<lastmod>2018-08-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/2018-08-19-results/</loc>
+<lastmod>2018-08-19T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:8080/2018-07-21-nor</loc>
 <lastmod>2018-07-21T00:00:00-07:00</lastmod>
 </url>
@@ -181,6 +189,9 @@
 <loc>http://0.0.0.0:8080/clubs/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:8080/contact/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:8080/documents/</loc>
 </url>
 <url>
@@ -296,6 +307,9 @@
 </url>
 <url>
 <loc>http://0.0.0.0:8080/sailors/sander_aerts/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/sailors/simon_monyaerts/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:8080/sailors/tanguy_paternoster/</loc>

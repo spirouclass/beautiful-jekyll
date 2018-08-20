@@ -7,6 +7,56 @@
     <atom:link href="/nl/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - Royal Yacht Club de la Warche</title>
+        <description>
+          25-26/08/2018 - 
+           Wedstrijdaankondiging
+
+
+
+
+
+
+
+    
+        Royal Yacht Club Warche
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Worriken 2
+            4750 Bütgenbach
+            Belgium
+            
+            rycw.be
+        
+    
+
+
+        </description>
+        <pubDate>Mon, 20 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-08-20-nor</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-08-20-nor</guid>
+      </item>
+    
+      <item>
+        <title>Spirou Trophy - Coupe Charles Bertels</title>
+        <description>
+          18-19/08/2017 - 
+          Spirou Trophy - Coupe Charles Bertels 18/8/2018 Sander Gatien Victor Plaats Zeiler Club 1 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 2 Gatien&amp;nbsp;Mahieux Sports Nautiques de l'Eau d'Heure 3 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 4 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 5 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 6 Eloïse&amp;nbsp;Van Houten Sports Nautiques...
+        </description>
+        <pubDate>Sun, 19 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-08-19-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-08-19-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - Coupe Charles Bertels SNEH</title>
         <description>
           18-19/08/2018 - 
@@ -434,84 +484,6 @@
         <pubDate>Sun, 11 Mar 2018 00:00:00 -0800</pubDate>
         <link>http://0.0.0.0:8080/2018-03-11-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-11-results/</guid>
-      </item>
-    
-      <item>
-        <title>Notice of Race - SAIL@CCESS Genval Yacht Club</title>
-        <description>
-          11/03/2018 - 
-           Wedstrijdaankondiging
-
-
-
-
-
-
-
-    
-        Genval Yacht Club
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Meerlaan 190 A
-            3090 Overijse
-            Belgium
-            
-            www.genvalyachtclub.be
-        
-    
-
-
-        </description>
-        <pubDate>Mon, 26 Feb 2018 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:8080/2018-02-26-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-02-26-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Junior Boat Delivery - SAIL@CCESS Genval Yacht Club</title>
-        <description>
-          10/03/2018 - 
-          We invite our new juniors to Genval to get to know their Spirou
-
-
-
-
-
-
-
-    
-        Genval Yacht Club
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Meerlaan 190 A
-            3090 Overijse
-            Belgium
-            
-            www.genvalyachtclub.be
-        
-    
-
-
-        </description>
-        <pubDate>Sun, 25 Feb 2018 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:8080/2018-02-25-Junior-Boat-Delivery1/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-02-25-Junior-Boat-Delivery1/</guid>
       </item>
     
   </channel>
