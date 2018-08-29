@@ -7,6 +7,56 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - BRYC</title>
+        <description>
+          09/09/2018 - 
+           Avis de course
+
+
+
+
+
+
+
+    
+        Bruxelles Royal Yacht Club
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Chaussée de Vilvorde 1
+            1020 Bruxelles
+            Belgium
+            
+            www.bryc.be
+        
+    
+
+
+        </description>
+        <pubDate>Tue, 28 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-08-28-nor</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-08-28-nor</guid>
+      </item>
+    
+      <item>
+        <title>Spirou Trophy - RYCW Bütgenbach</title>
+        <description>
+          25-26/08/2018 - 
+          Spirou Trophy - RYCW 26/8/2018 Gatien Sander Alberto Place Marin Club 1 Gatien&amp;nbsp;Mahieux Sports Nautiques de l'Eau d'Heure 2 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 3 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 5 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 6 Gwenaël&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure...
+        </description>
+        <pubDate>Sun, 26 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-08-26-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-08-26-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - Royal Yacht Club de la Warche</title>
         <description>
           25-26/08/2018 - 
@@ -432,58 +482,6 @@
         <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-03-15-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-15-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Race is CANCELLED - KLYC Galgenweel Antwerpen</title>
-        <description>
-          18/03/2018 - 
-          Due to the extreme weather conditions the comite has decided to cancel the race
-
- Avis de course
-
-
-
-
-
-
-
-    
-        Koninklijke Liberty Yacht Club
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Beatrijslaan 90
-            2050 Antwerpen
-            Belgium
-            
-            klyc.be
-        
-    
-
-
-        </description>
-        <pubDate>Mon, 12 Mar 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-03-12-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-12-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - Sail@ccess Genval Yacht Club</title>
-        <description>
-          11/03/2018 - 
-          Spirou Trophy - Sail@ccess Genval Yacht Club 11/3/2018 Victor Eloïse Alberto Place Marin Club 1 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 2 Eloïse&amp;nbsp;Van Houten Sports Nautiques de l'Eau d'Heure 3 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Wout&amp;nbsp;De Bondt WVD Mechelen 5 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 6 Tanguy&amp;nbsp;Paternoster Sports...
-        </description>
-        <pubDate>Sun, 11 Mar 2018 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:8080/2018-03-11-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-11-results/</guid>
       </item>
     
   </channel>
