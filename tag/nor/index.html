@@ -77,7 +77,7 @@
   
 
    
-  <meta property="og:description" content="Posts Tagged &amp;ldquo;nor&amp;rdquo;: Notice of Race - OBK Oostende 15-16/09/2018 Posted on September 10, 2018 {% include /norlink.html %} {% include /clubinfo.html %} [Read More] Tags: nor Notice of Race - BRYC 09/09/2018 Posted on August 28, 2018 {% include /norlink.html %} {% include /clubinfo.html %} [Read More] Tags: nor...">
+  <meta property="og:description" content="{{page.title}}: {% for post in site.posts %} {% for tag in post.tags %} {% if tag == page.tag %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: &quot;%B %-d, %Y&quot; }} {{ post.content | strip_html | xml_escape | truncatewords:...">
   
 
 
@@ -103,7 +103,7 @@
   
 
   
-  <meta name="twitter:description" content="Posts Tagged &amp;ldquo;nor&amp;rdquo;: Notice of Race - OBK Oostende 15-16/09/2018 Posted on September 10, 2018 {% include /norlink.html %} {% include /clubinfo.html %} [Read More] Tags: nor Notice of Race - BRYC 09/09/2018 Posted on August 28, 2018 {% include /norlink.html %} {% include /clubinfo.html %} [Read More] Tags: nor...">
+  <meta name="twitter:description" content="{{page.title}}: {% for post in site.posts %} {% for tag in post.tags %} {% if tag == page.tag %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: &quot;%B %-d, %Y&quot; }} {{ post.content | strip_html | xml_escape | truncatewords:...">
   
 
   
@@ -321,34 +321,9 @@
     </p>
 
     <div class="post-entry">
-      [<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+      {% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-09-10-nor/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -384,34 +359,9 @@
     </p>
 
     <div class="post-entry">
-      [<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+      {% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-08-28-nor" class="post-read-more">[Read More]</a>
     </div>
 
@@ -447,34 +397,9 @@
     </p>
 
     <div class="post-entry">
-      [<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+      {% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-08-20-nor" class="post-read-more">[Read More]</a>
     </div>
 
@@ -510,34 +435,9 @@
     </p>
 
     <div class="post-entry">
-      [<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+      {% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-07-21-nor" class="post-read-more">[Read More]</a>
     </div>
 
@@ -575,34 +475,9 @@
     <div class="post-entry">
       Don't forget to print out the parking ticket inside the nor.
 
-[<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+{% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-05-20-nor/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -677,34 +552,9 @@
       [http://www.wp.sneh.be/?page_id=1160](Subscribe)
 
 
-[<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+{% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-05-06-nor/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -740,34 +590,9 @@
     </p>
 
     <div class="post-entry">
-      [<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+      {% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-05-01-nor/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -803,34 +628,9 @@
     </p>
 
     <div class="post-entry">
-      [<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+      {% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-04-16-nor/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -868,34 +668,9 @@
     </p>
 
     <div class="post-entry">
-      [<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+      {% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-04-05-nor/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -931,34 +706,9 @@
     </p>
 
     <div class="post-entry">
-      [<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+      {% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-03-15-nor/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -992,34 +742,9 @@
     <div class="post-entry">
       # Due to the extreme weather conditions the comite has decided to cancel the race
 
-[<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+{% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-03-12-nor/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1055,34 +780,9 @@
     </p>
 
     <div class="post-entry">
-      [<i class="fa fa-cloud-download"></i> Notice of Race](){:target="_blank"}
+      {% include /norlink.html %}
 
-<!-- clubinfo:  -->
-<div class="container clublocation">
-
-
-
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="club"></h4>
-    </div>
-</div>
-<div class="row">
-        <div class="col-sm-4">
-            <div class="google-maps">
-  <iframe src="" width="600" height="450" scrolling="no" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class="col-sm-8">
-            <p class="adres">
-            <br/>
-            <br/>
-            <br/>
-            </p>
-            <p class="hyperlink"><a href="http://" target="_blank"></a></p>
-        </div>
-    </div>
-</div>
+{% include /clubinfo.html %}
       <a href="/2018-02-26-nor/" class="post-read-more">[Read More]</a>
     </div>
 
