@@ -7,6 +7,56 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - OBK Oostende</title>
+        <description>
+          15-16/09/2018 - 
+           Notice of Race
+
+
+
+
+
+
+
+    
+        V.V.W. Inside-Outside
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Schietbaanstraat 100
+            8400 Oostende
+            Belgium
+            
+            www.vvwinout.be
+        
+    
+
+
+        </description>
+        <pubDate>Mon, 10 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-09-10-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-10-nor/</guid>
+      </item>
+    
+      <item>
+        <title>Spirou Trophy - BRYC Brussels</title>
+        <description>
+          09/09/2018 - 
+          Spirou Trophy - BRYC Brussels 9/9/2018 Gatien Axel Sander Rank Sailor Club 1 Gatien&amp;nbsp;Mahieux Sports Nautiques de l'Eau d'Heure 2 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 3 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 4 Wout&amp;nbsp;De Bondt WVD Mechelen 5 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 6 Gwenaël&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 7...
+        </description>
+        <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-09-09-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-09-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - BRYC</title>
         <description>
           09/09/2018 - 
@@ -432,56 +482,6 @@
         <pubDate>Thu, 05 Apr 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-04-05-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-05-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - Nievdonckse Watersport Vereniging</title>
-        <description>
-          02/04/2018 - 
-          Spirou Trophy - Nievdonckse Watersport Vereniging (Berlare) 2/4/2018 Victor Tanguy Sander Rank Sailor Club 1 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 2 Tanguy&amp;nbsp;Paternoster Sports Nautiques de l'Eau d'Heure 3 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 4 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 5 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 6 Alberto&amp;nbsp;Da Col Bruxelles...
-        </description>
-        <pubDate>Mon, 02 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-04-02-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-02-results/</guid>
-      </item>
-    
-      <item>
-        <title>Notice of Race - Nievdonckse watersportvereniging</title>
-        <description>
-          02/04/2018 - 
-           Notice of Race
-
-
-
-
-
-
-
-    
-        Nievdonckse Watersport Vereniging
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Dendermondse Steenweg 13a
-            9290 Berlare
-            Belgium
-            
-            www.nwv-nd.be
-        
-    
-
-
-        </description>
-        <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-03-15-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-03-15-nor/</guid>
       </item>
     
   </channel>
