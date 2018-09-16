@@ -7,6 +7,18 @@
     <atom:link href="/nl/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Regatta Cancelled! - ZSG Broechem</title>
+        <description>
+          23/09/2018 - 
+          The Spirou regatta in ZSG Broechem is cancelled!
+
+        </description>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-09-17-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-17-nor/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - OBK Oostende</title>
         <description>
           15-16/09/2018 - 
@@ -442,46 +454,6 @@
         <pubDate>Sun, 08 Apr 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-04-08-Stage-Oostende/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-08-Stage-Oostende/</guid>
-      </item>
-    
-      <item>
-        <title>Notice of Race - Royal Club Nautique Mons Borinage</title>
-        <description>
-          15/04/2018 - 
-           Wedstrijdaankondiging
-
-
-
-
-
-
-
-    
-        Royal Club Nautique Mons Borinage
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Avenue du Grand Large 2A
-
-            7000 Mons
-            Belgium
-            
-            www.rcnmb.be
-        
-    
-
-
-        </description>
-        <pubDate>Thu, 05 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-04-05-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-05-nor/</guid>
       </item>
     
   </channel>
