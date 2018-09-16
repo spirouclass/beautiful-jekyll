@@ -7,6 +7,45 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - ‘La Spirou’ de Beez</title>
+        <description>
+          30/09/2018 - 
+           Notice of Race
+
+
+
+
+
+
+
+    
+        Beez Boating Club
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Avenue Reine Elisabeth 202
+            5000 Namur
+            Belgium
+            
+            www.bbcvoile.be
+        
+    
+
+
+        </description>
+        <pubDate>Sun, 30 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2018-09-30-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-30-nor/</guid>
+      </item>
+    
+      <item>
         <title>Regatta Cancelled! - ZSG Broechem</title>
         <description>
           23/09/2018 - 
@@ -442,17 +481,6 @@
         <pubDate>Mon, 16 Apr 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-04-16-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-16-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - Royal Club Nautique Mons Borinage</title>
-        <description>
-          15/04/2018 - 
-          Spirou Trophy - Royal Club Nautique Mons Borinage 15/4/2018 Victor Sander Gatien Rank Sailor Club 1 Victor&amp;nbsp;Pille Zeil- en Surfclub Gavermeer 2 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 3 Gatien&amp;nbsp;Mahieux Sports Nautiques de l'Eau d'Heure 4 Wout&amp;nbsp;De Bondt WVD Mechelen 5 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 6 Eloïse&amp;nbsp;Van Houten Sports Nautiques...
-        </description>
-        <pubDate>Sun, 15 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-04-15-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-04-15-results/</guid>
       </item>
     
   </channel>
