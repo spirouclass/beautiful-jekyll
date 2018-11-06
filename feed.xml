@@ -7,6 +7,48 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - SteMette Beker WVD Mechelen</title>
+        <description>
+          11/11/2018 - 
+           Notice of Race
+
+
+
+
+
+
+
+
+    
+        WVD Mechelen
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Eglegemweg 8
+            2811 Hombeek
+            Belgium
+            
+            www.wvd-mechelen.be
+        
+    
+
+
+Info: website WVD
+
+        </description>
+        <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:8080/2018-11-06-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2018-11-06-nor/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - RBSC Heusden</title>
         <description>
           21/10/2018 - 
@@ -458,17 +500,6 @@ More info: website ZSG Gavermeer
         <pubDate>Sun, 20 May 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-05-20-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-05-20-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - RYCM Liège</title>
-        <description>
-          13/05/2018 - 
-          Spirou Trophy - RYCM 13/5/2018 Sander Victor Gatien Rank Sailor Club 1 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 2 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 3 Gatien&amp;nbsp;Mahieux Sports Nautiques de l'Eau d'Heure 4 Lars&amp;nbsp;Van Der Speeten VVW Kelchteren 5 Elin&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 6 Sacha&amp;nbsp;Hofmans Sports Nautiques de l'Eau d'Heure &amp;nbsp;Race Results...
-        </description>
-        <pubDate>Sun, 13 May 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-05-13-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-05-13-results/</guid>
       </item>
     
   </channel>
