@@ -77,7 +77,7 @@
   
 
    
-  <meta property="og:description" content="Posts Tagged &amp;ldquo;results&amp;rdquo;: Spirou Trophy - SteMette Beker WVD Mechelen 11/11/2018 Posted on November 11, 2018 {% include /raceinfo.html %} {% include /raceresults.html %} [Read More] Tags: results Spirou Trophy - ZSG Gavermeer 07/10/2018 Posted on October 7, 2018 {% include /raceinfo.html %} {% include /raceresults.html %} [Read More] Tags:...">
+  <meta property="og:description" content="{{page.title}}: {% for post in site.posts %} {% for tag in post.tags %} {% if tag == page.tag %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: &quot;%B %-d, %Y&quot; }} {{ post.content | strip_html | xml_escape | truncatewords:...">
   
 
 
@@ -103,7 +103,7 @@
   
 
   
-  <meta name="twitter:description" content="Posts Tagged &amp;ldquo;results&amp;rdquo;: Spirou Trophy - SteMette Beker WVD Mechelen 11/11/2018 Posted on November 11, 2018 {% include /raceinfo.html %} {% include /raceresults.html %} [Read More] Tags: results Spirou Trophy - ZSG Gavermeer 07/10/2018 Posted on October 7, 2018 {% include /raceinfo.html %} {% include /raceresults.html %} [Read More] Tags:...">
+  <meta name="twitter:description" content="{{page.title}}: {% for post in site.posts %} {% for tag in post.tags %} {% if tag == page.tag %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: &quot;%B %-d, %Y&quot; }} {{ post.content | strip_html | xml_escape | truncatewords:...">
   
 
   
@@ -323,62 +323,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-11-11-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -422,62 +369,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-10-07-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -513,62 +407,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-09-30-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -610,62 +451,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-09-16-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -701,62 +489,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-09-09-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -792,62 +527,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-08-26-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -883,62 +565,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-08-19-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -976,62 +605,9 @@
     <div class="post-entry">
       &amp;nbsp;Photos
 
-<!-- raceinfo:  -->
-<div class="container raceinfo">
+{% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-05-20-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1067,62 +643,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-05-13-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1158,62 +681,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-05-06-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1249,62 +719,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-05-01-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1340,62 +757,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-04-22-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1431,62 +795,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-04-15-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1524,62 +835,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-04-02-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1619,62 +877,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2018-03-11-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1718,62 +923,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-11-12-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1805,62 +957,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-10-22-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1892,62 +991,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-10-15-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -1979,62 +1025,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-10-08-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2066,62 +1059,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-10-01-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2153,62 +1093,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-09-17-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2240,62 +1127,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-09-10-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2327,62 +1161,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-09-02-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2414,62 +1195,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-08-26-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2501,62 +1229,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-08-19-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2588,62 +1263,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-06-25-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2675,62 +1297,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-05-21-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2762,62 +1331,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-05-14-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2849,62 +1365,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-05-07-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -2936,62 +1399,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-05-01-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -3023,62 +1433,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-04-23-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -3110,62 +1467,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-04-17-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -3197,62 +1501,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-03-19-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -3284,62 +1535,9 @@
     </p>
 
     <div class="post-entry">
-      <!-- raceinfo:  -->
-<div class="container raceinfo">
+      {% include /raceinfo.html %}
 
-
-
-<div class="row">
-    <h4 class="race"></h4>
-    <h5 class="date">//</h5>
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="/img/podium/" width="100%">  
-      </div>
-      <div class="col-sm-4">
-        <p>
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-                
-                <span class="medal">
-                <a href="/sailors/"></a></span>
-                <br />
-            
-        </p>
-      </div>
-    </div>
-</div>
-
-<!-- clubinfo:  -->
-
-
-<div class="row">
-    <table class="raceresults">
-	    <thead>
-	        <tr>
-	            <th>Rank</th>
-        		<th>Sailor</th>
-		        <th>Club</th>
-		        <th><i class="fa fa-child" aria-hidden="true"></i></th>
-        	</tr>
-        </thead>
-        <tbody>
-        
-	    </tbody>
-    </table>
-	
-	
-</div>
-
+{% include /raceresults.html %}
       <a href="/2017-03-12-results/" class="post-read-more">[Read More]</a>
     </div>
 
@@ -3441,7 +1639,7 @@
         <p class="copyright text-muted">
 		  Spirou Class
 		  &nbsp;&bull;&nbsp;
-		  2018
+		  2019
 
 		  
 		  &nbsp;&bull;&nbsp;
