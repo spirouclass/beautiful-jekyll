@@ -7,6 +7,46 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - SAIL@CCESS Genval Yacht Club</title>
+        <description>
+          17/03/2019 - 
+           Avis de course
+
+
+
+
+
+
+
+
+    
+        Genval Yacht Club
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Meerlaan 190 A
+            3090 Overijse
+            Belgium
+            
+            www.genvalyachtclub.be
+        
+    
+
+
+        </description>
+        <pubDate>Sun, 17 Mar 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-03-17-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-03-17-nor/</guid>
+      </item>
+    
+      <item>
         <title>Best Wishes</title>
         <description>
           
@@ -430,46 +470,6 @@ More info: website ZSG Gavermeer
         <pubDate>Sun, 19 Aug 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-08-19-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-08-19-results/</guid>
-      </item>
-    
-      <item>
-        <title>Notice of Race - Coupe Charles Bertels SNEH</title>
-        <description>
-          18-19/08/2018 - 
-           Avis de course
-
-
-
-
-
-
-
-
-    
-        Sports Nautiques de l'Eau d'Heure
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Rue de Oupia 4 bte 1
-            6440 Froidchapelle
-            Belgium
-            
-            www.sneh.be
-        
-    
-
-
-        </description>
-        <pubDate>Sat, 21 Jul 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-07-21-nor</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-07-21-nor</guid>
       </item>
     
   </channel>
