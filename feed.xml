@@ -7,6 +7,17 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Spirou Trophy - VVW Turnhout</title>
+        <description>
+          31/03/2019 - 
+          Spirou Trophy - VVW Turnhout 31/3/2019 Mathieu Sander Axel Rank Sailor Club 1 Mathieu&amp;nbsp;Casaer Nievdonckse Watersport Vereniging 2 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 3 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 4 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 5 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 6 Valérie&amp;nbsp;Casaer Nievdonckse Watersport Vereniging 7 Romain&amp;nbsp;Walschaerts...
+        </description>
+        <pubDate>Sun, 31 Mar 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-03-31-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-03-31-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - VVW Turnhout</title>
         <description>
           31/03/2019 - 
@@ -515,17 +526,6 @@ More info: website ZSG Gavermeer
         <pubDate>Mon, 10 Sep 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-09-10-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-10-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - BRYC Brussels</title>
-        <description>
-          09/09/2018 - 
-          Spirou Trophy - BRYC Brussels 9/9/2018 Axel Sander Rank Sailor Club 1 &amp;nbsp; Sports Nautiques de l'Eau d'Heure 2 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 3 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 4 &amp;nbsp; WVD Mechelen 5 &amp;nbsp; Zeil- en Surfclub Gavermeer 6 &amp;nbsp; Sports Nautiques de l'Eau d'Heure 7 Alice&amp;nbsp;Da Col...
-        </description>
-        <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-09-09-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-09-results/</guid>
       </item>
     
   </channel>
