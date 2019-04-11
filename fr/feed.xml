@@ -7,6 +7,46 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - NWV Berlare</title>
+        <description>
+          22/04/2019 - 
+           Avis de course
+
+
+
+
+
+
+
+
+    
+        Nievdonckse Watersport Vereniging
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Dendermondse Steenweg 13a
+            9290 Berlare
+            Belgium
+            
+            www.nwv-nd.be
+        
+    
+
+
+        </description>
+        <pubDate>Mon, 22 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-04-22-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-04-22-nor/</guid>
+      </item>
+    
+      <item>
         <title>Spirou Trophy - VVW Turnhout</title>
         <description>
           31/03/2019 - 
@@ -486,46 +526,6 @@ More info: website ZSG Gavermeer
         <pubDate>Sun, 16 Sep 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-09-16-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-16-results/</guid>
-      </item>
-    
-      <item>
-        <title>Notice of Race - OBK Oostende</title>
-        <description>
-          15-16/09/2018 - 
-           Avis de course
-
-
-
-
-
-
-
-
-    
-        V.V.W. Inside-Outside
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Schietbaanstraat 100
-            8400 Oostende
-            Belgium
-            
-            www.vvwinout.be
-        
-    
-
-
-        </description>
-        <pubDate>Mon, 10 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-09-10-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-10-nor/</guid>
       </item>
     
   </channel>
