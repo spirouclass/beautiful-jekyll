@@ -7,6 +7,17 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Spirou Trophy - NWV Berlare</title>
+        <description>
+          22/04/2019 - 
+          Spirou Trophy - NWV Berlare 22/4/2019 Sander Mathieu Alberto Place Marin Club 1 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 2 Mathieu&amp;nbsp;Casaer Nievdonckse Watersport Vereniging 3 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 5 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 6 Hugo&amp;nbsp;Rogers Sports Nautiques de l'Eau d'Heure...
+        </description>
+        <pubDate>Mon, 22 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-04-22-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-04-22-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - NWV Berlare</title>
         <description>
           22/04/2019 - 
@@ -515,17 +526,6 @@ More info: website ZSG Gavermeer
         <pubDate>Mon, 17 Sep 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/IntroductieWeekend2018/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/IntroductieWeekend2018/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - Open Belgian Championship - VVW Inside Oostende</title>
-        <description>
-          15-16/09/2018 - 
-          Spirou Trophy - Open Belgian Championship - VVW Oostende Inside 16/9/2018 Sander Axel Place Marin Club 1 &amp;nbsp; Zeil- en Surfclub Gavermeer 2 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 3 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 4 &amp;nbsp; WVD Mechelen 5 &amp;nbsp; Sports Nautiques de l'Eau d'Heure 6 Alberto&amp;nbsp;Da Col Bruxelles Royal...
-        </description>
-        <pubDate>Sun, 16 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-09-16-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-16-results/</guid>
       </item>
     
   </channel>
