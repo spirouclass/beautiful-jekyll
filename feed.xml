@@ -7,6 +7,46 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - NWV Berlare</title>
+        <description>
+          22/04/2019 - 
+           Notice of Race
+
+
+
+
+
+
+
+
+    
+        Nievdonckse Watersport Vereniging
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Dendermondse Steenweg 13a
+            9290 Berlare
+            Belgium
+            
+            www.nwv-nd.be
+        
+    
+
+
+        </description>
+        <pubDate>Sun, 28 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-04-28-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-04-28-nor/</guid>
+      </item>
+    
+      <item>
         <title>Spirou Trophy - NWV Berlare</title>
         <description>
           22/04/2019 - 
@@ -515,17 +555,6 @@ More info: website ZSG Gavermeer
         <pubDate>Mon, 17 Sep 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-09-17-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-17-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Introductieweekend Spirou 2018</title>
-        <description>
-          6/10/2018 &amp; 13/10/2018 - 
-          Ook dit jaar organiseren we samen met WWSV twee dagen waarop je gratis en onder begeleiding een Spirou kan uitproberen. Wil je kennis maken met een erg leuk bootje in opvolging van de optimist dan biedt de Spirou klasse jou een prettig alternatief. Tijdens de introductiedagen die WWSV samen met...
-        </description>
-        <pubDate>Mon, 17 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/IntroductieWeekend2018/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/IntroductieWeekend2018/</guid>
       </item>
     
   </channel>
