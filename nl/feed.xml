@@ -7,6 +7,46 @@
     <atom:link href="/nl/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - IYC Ittre</title>
+        <description>
+          01/05/2019 - 
+           Wedstrijdaankondiging
+
+
+
+
+
+
+
+
+    
+        International Yachting Club Ittre
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Rue du Sart 45
+            1460 Ittre
+            Belgium
+            
+            www.interyacht.be
+        
+    
+
+
+        </description>
+        <pubDate>Wed, 01 May 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-05-01-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-05-01-nor/</guid>
+      </item>
+    
+      <item>
         <title>Spirou Trophy - RYCM Liège</title>
         <description>
           29/04/2019 - 
@@ -570,46 +610,6 @@ More info: website ZSG Gavermeer
         <pubDate>Sun, 30 Sep 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-09-30-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-30-results/</guid>
-      </item>
-    
-      <item>
-        <title>Notice of Race - ‘La Spirou’ de Beez</title>
-        <description>
-          30/09/2018 - 
-           Wedstrijdaankondiging
-
-
-
-
-
-
-
-
-    
-        Beez Boating Club
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Avenue Reine Elisabeth 202
-            5000 Namur
-            Belgium
-            
-            www.bbcvoile.be
-        
-    
-
-
-        </description>
-        <pubDate>Sun, 30 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-09-30-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-30-nor/</guid>
       </item>
     
   </channel>
