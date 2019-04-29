@@ -7,6 +7,17 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Spirou Trophy - RYCM Liège</title>
+        <description>
+          29/04/2019 - 
+          Spirou Trophy - RYCM Liège 29/4/2019 Sander Alice Romain Rank Sailor Club 1 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 2 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 3 Romain&amp;nbsp;Walschaerts Sports Nautiques de l'Eau d'Heure 4 Dorien&amp;nbsp;Palmans Nievdonckse Watersport Vereniging 5 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 6 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure...
+        </description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-04-29-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-04-29-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - RYCM Liège</title>
         <description>
           28/04/2019 - 
@@ -50,7 +61,63 @@
         <title>Spirou Trophy - NWV Berlare</title>
         <description>
           22/04/2019 - 
-          Spirou Trophy - NWV Berlare 22/4/2019 Sander Mathieu Alberto Rank Sailor Club 1 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 2 Mathieu&amp;nbsp;Casaer Nievdonckse Watersport Vereniging 3 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 5 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 6 Hugo&amp;nbsp;Rogers Sports Nautiques de l'Eau d'Heure...
+          
+
+
+
+
+
+    
+    //
+    
+      
+          
+      
+      
+        
+            
+                
+                
+                
+                
+            
+                
+                
+                
+                
+            
+                
+                
+                
+                
+            
+        
+      
+    
+
+
+
+
+
+
+    
+	    
+	        
+	            Rank
+        		Sailor
+		        Club
+		        
+        	
+        
+        
+        
+	    
+    
+	
+	
+
+
+
         </description>
         <pubDate>Mon, 22 Apr 2019 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2019-04-22-results/</link>
@@ -543,18 +610,6 @@ More info: website ZSG Gavermeer
         <pubDate>Sun, 30 Sep 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-09-30-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-30-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Regatta Cancelled! - ZSG Broechem</title>
-        <description>
-          23/09/2018 - 
-          The Spirou regatta in ZSG Broechem is cancelled!
-
-        </description>
-        <pubDate>Mon, 17 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-09-17-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-17-nor/</guid>
       </item>
     
   </channel>
