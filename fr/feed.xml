@@ -7,6 +7,46 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - Schulensmeer</title>
+        <description>
+          05/05/2019 - 
+           Avis de course
+
+
+
+
+
+
+
+
+    
+        Schulensmeer
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Demerstraat 60
+            3560 Lummen
+            Belgium
+            
+            www.schulensmeer.be
+        
+    
+
+
+        </description>
+        <pubDate>Sun, 05 May 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-05-05-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-05-05-nor/</guid>
+      </item>
+    
+      <item>
         <title>Spirou Trophy - IYC Ittre</title>
         <description>
           01/05/2019 - 
@@ -512,48 +552,6 @@ Dank aan WWSV en NWV Nieuwdonk om samen met ons deze prachtige kennismakingsdag 
         <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-10-07-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-10-07-results/</guid>
-      </item>
-    
-      <item>
-        <title>Notice of Race - ZSC Gavermeer</title>
-        <description>
-          23/09/2018 - 
-           Avis de course
-
-
-
-
-
-
-
-
-    
-        Zeil- en Surfclub Gavermeer
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Eikenstraat 131
-            8530 Harelbeke
-            Belgium
-            
-            www.zsg.be
-        
-    
-
-
-More info: website ZSG Gavermeer
-
-        </description>
-        <pubDate>Mon, 01 Oct 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-10-01-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-10-01-nor/</guid>
       </item>
     
   </channel>
