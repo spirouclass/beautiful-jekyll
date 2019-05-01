@@ -7,6 +7,17 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Spirou Trophy - IYC Ittre</title>
+        <description>
+          01/05/2019 - 
+          Spirou Trophy - IYC Ittre 1/5/2019 Sander Alberto Hugo Place Marin Club 1 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 2 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 3 Hugo&amp;nbsp;Rogers Sports Nautiques de l'Eau d'Heure 4 Dorien&amp;nbsp;Palmans Nievdonckse Watersport Vereniging 5 Arthur&amp;nbsp;Teughels WVD Mechelen 6 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 7 Elin&amp;nbsp;Aerts Nievdonckse...
+        </description>
+        <pubDate>Wed, 01 May 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-05-01-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-05-01-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - IYC Ittre</title>
         <description>
           01/05/2019 - 
@@ -543,17 +554,6 @@ More info: website ZSG Gavermeer
         <pubDate>Mon, 01 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-10-01-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-10-01-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - Beez Boating Club</title>
-        <description>
-          30/09/2018 - 
-          Spirou Trophy - Beez Boating Club 30/09/2018 Sander Axel Place Marin Club 1 &amp;nbsp; Zeil- en Surfclub Gavermeer 2 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 3 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 4 &amp;nbsp; Sports Nautiques de l'Eau d'Heure 5 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 6 &amp;nbsp; Sports Nautiques de l'Eau...
-        </description>
-        <pubDate>Sun, 30 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-09-30-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-09-30-results/</guid>
       </item>
     
   </channel>
