@@ -7,6 +7,17 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Spirou Trophy - Schulensmeer</title>
+        <description>
+          05/05/2019 - 
+          Spirou Trophy - Schulensmeer 5/5/2019 Arthur Sander Victor Rank Sailor Club 1 Arthur&amp;nbsp;Teughels WVD Mechelen 2 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 3 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 4 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 5 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 6 Valérie&amp;nbsp;Casaer Nievdonckse Watersport Vereniging 7 Alice&amp;nbsp;Da Col Bruxelles...
+        </description>
+        <pubDate>Sun, 05 May 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-05-05-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-05-05-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - Schulensmeer</title>
         <description>
           05/05/2019 - 
@@ -541,17 +552,6 @@ Dank aan WWSV en NWV Nieuwdonk om samen met ons deze prachtige kennismakingsdag 
         <pubDate>Sat, 13 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-10-13-Introductieweekend-Berlare/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-10-13-Introductieweekend-Berlare/</guid>
-      </item>
-    
-      <item>
-        <title>Spirou Trophy - ZSG Gavermeer</title>
-        <description>
-          07/10/2018 - 
-          Spirou Trophy - ZSG Gavermeer 7/10/2018 Sander Rank Sailor Club 1 &amp;nbsp; Zeil- en Surfclub Gavermeer 2 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 3 &amp;nbsp; Sports Nautiques de l'Eau d'Heure 4 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 5 &amp;nbsp; WVD Mechelen 6 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau d'Heure 7 Alice&amp;nbsp;Da Col Bruxelles...
-        </description>
-        <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-10-07-results/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-10-07-results/</guid>
       </item>
     
   </channel>
