@@ -7,6 +7,46 @@
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Notice of Race - Coupe Charles Bertels SNEH</title>
+        <description>
+          18-19/08/2018 - 
+           Avis de course
+
+
+
+
+
+
+
+
+    
+        Sports Nautiques de l'Eau d'Heure
+    
+
+
+        
+            
+  
+
+        
+        
+            
+            Rue de Oupia 4 bte 1
+            6440 Froidchapelle
+            Belgium
+            
+            www.sneh.be
+        
+    
+
+
+        </description>
+        <pubDate>Sun, 19 May 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-05-19-nor/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-05-19-nor/</guid>
+      </item>
+    
+      <item>
         <title>Spirou Trophy - RCNMB Mons</title>
         <description>
           12/05/2019 - 
@@ -534,48 +574,6 @@ Info: website WVD
         <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
         <link>http://0.0.0.0:8080/2018-11-06-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-11-06-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Notice of Race - RBSC Heusden</title>
-        <description>
-          21/10/2018 - 
-           Avis de course
-
-
-
-
-
-
-
-
-    
-        RBSC Heusden
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Stapsteenweg 50
-            9070 Destelbergen
-            Belgium
-            
-            www.rbsc.be
-        
-    
-
-
-Subscribe here: website RBSC
-
-        </description>
-        <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-10-15-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-10-15-nor/</guid>
       </item>
     
   </channel>
