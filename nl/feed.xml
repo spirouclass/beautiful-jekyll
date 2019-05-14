@@ -7,6 +7,17 @@
     <atom:link href="/nl/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Spirou Trophy - RCNMB Mons</title>
+        <description>
+          12/05/2019 - 
+          Spirou Trophy - RCNMB Mons 12/5/2019 Alberto Sander Alice Plaats Zeiler Club 1 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 2 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 3 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Hugo&amp;nbsp;Rogers Sports Nautiques de l'Eau d'Heure 5 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 6 Axel&amp;nbsp;Holderbeke Sports Nautiques de...
+        </description>
+        <pubDate>Sun, 12 May 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-05-12-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-05-12-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - RCNMB Mons</title>
         <description>
           12/05/2019 - 
@@ -565,17 +576,6 @@ Subscribe here: website RBSC
         <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://0.0.0.0:8080/2018-10-15-nor/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-10-15-nor/</guid>
-      </item>
-    
-      <item>
-        <title>Junior Cup 2018 - NWV Berlare</title>
-        <description>
-          14/10/2018 - 
-          Prachtige zeilomstandigheden voor onze aspirant Spiroutisten om de wedijveren voor een Spirou Boot. Dank aan NWV Berlare om de organistatie op zich te nemen! VOLGORDE NAAM 1 Casaer Guillaume 2 Vaereman Fleur 3 D’Hondt Noor 4 Theugels Louise 5 Heyman Femke 6 Anseeuw Kasper 7 Otto Laura Dank aan de...
-        </description>
-        <pubDate>Sun, 14 Oct 2018 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:8080/2018-10-14-JuniorCup-Berlare/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-10-14-JuniorCup-Berlare/</guid>
       </item>
     
   </channel>
