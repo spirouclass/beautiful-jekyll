@@ -7,12 +7,21 @@
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Spirou Trophy - Esch-sur-Sûre</title>
+        <description>
+          19/05/2019 - 
+          Spirou Trophy - Esch-sur-Sûre 19/5/2019 Sander Victor Alice Rank Sailor Club 1 Sander&amp;nbsp;Aerts Nievdonckse Watersport Vereniging 2 Victor&amp;nbsp;Cambier Sports Nautiques de l'Eau d'Heure 3 Alice&amp;nbsp;Da Col Bruxelles Royal Yacht Club 4 Alberto&amp;nbsp;Da Col Bruxelles Royal Yacht Club 5 Romain&amp;nbsp;Walschaerts Sports Nautiques de l'Eau d'Heure 6 Axel&amp;nbsp;Holderbeke Sports Nautiques de l'Eau...
+        </description>
+        <pubDate>Sun, 19 May 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:8080/2019-05-19-results/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019-05-19-results/</guid>
+      </item>
+    
+      <item>
         <title>Notice of Race - YCL Luxembourg</title>
         <description>
           19/05/2019 - 
-          Instructions for the race : https://drive.google.com/file/d/1RfXHojWkPY7VZ6dX_R_HXkZC_V_LDVuP/view?usp=sharing
-
- Notice of Race
+           Notice of Race
 
 
 
@@ -533,48 +542,6 @@
         <pubDate>Sun, 11 Nov 2018 00:00:00 -0800</pubDate>
         <link>http://0.0.0.0:8080/2018-11-11-results/</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2018-11-11-results/</guid>
-      </item>
-    
-      <item>
-        <title>Notice of Race - SteMette Beker WVD Mechelen</title>
-        <description>
-          11/11/2018 - 
-           Notice of Race
-
-
-
-
-
-
-
-
-    
-        WVD Mechelen
-    
-
-
-        
-            
-  
-
-        
-        
-            
-            Eglegemweg 8
-            2811 Hombeek
-            Belgium
-            
-            www.wvd-mechelen.be
-        
-    
-
-
-Info: website WVD
-
-        </description>
-        <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:8080/2018-11-06-nor/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2018-11-06-nor/</guid>
       </item>
     
   </channel>
